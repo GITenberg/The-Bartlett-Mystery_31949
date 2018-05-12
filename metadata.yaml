@@ -1,0 +1,29 @@
+_repo: The-Bartlett-Mystery_31949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2010-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31949'
+  lccn: '19012877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+title: The Bartlett Mystery
+url: http://www.gutenberg.org/ebooks/31949
